@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mrgSite/static/css/main.a452a971.css",
+    "main.js": "/mrgSite/static/js/main.53e7403f.js",
+    "static/js/787.d596bd42.chunk.js": "/mrgSite/static/js/787.d596bd42.chunk.js",
+    "static/media/firstTemp.jpg": "/mrgSite/static/media/firstTemp.7326507b189092d594e2.jpg",
+    "static/media/bramhaniMata.jpg": "/mrgSite/static/media/bramhaniMata.10ee900a0ebbeb18f80d.jpg",
+    "static/media/khodiyarnataji.jpg": "/mrgSite/static/media/khodiyarnataji.ff4d2a1aa714263a26b5.jpg",
+    "static/media/ganeshji.jpg": "/mrgSite/static/media/ganeshji.54c792dc7d1113fe2e78.jpg",
+    "static/media/mandap.jpg": "/mrgSite/static/media/mandap.0270752676a20cc4346d.jpg",
+    "index.html": "/mrgSite/index.html",
+    "main.a452a971.css.map": "/mrgSite/static/css/main.a452a971.css.map",
+    "main.53e7403f.js.map": "/mrgSite/static/js/main.53e7403f.js.map",
+    "787.d596bd42.chunk.js.map": "/mrgSite/static/js/787.d596bd42.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a452a971.css",
+    "static/js/main.53e7403f.js"
+  ]
+}
